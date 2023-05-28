@@ -1,0 +1,244 @@
+body{
+    background-color:#f6e0e0;
+}
+
+#Projects{
+    position: relative;
+    top: 0px;
+    margin-bottom: 20px; 
+}
+#prh{
+    position: relative;
+    margin-top: 20px;
+    color: rgb(23, 22, 22);
+    margin-left: 600px;
+    font-size: 28px;
+}
+#pr1{
+    position: relative;
+    margin-left: 550px;
+    color: rgb(22, 21, 21);
+    margin-top: 10px;
+}
+#project-1{
+    position: relative;
+    margin-left: 160px;
+    margin-top: 30px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#prh1{
+    position: absolute;
+    margin-left: 80px;
+    color: rgb(32, 30, 30);
+    top: 0px;
+}
+#p{
+    position: relative;
+    margin-left: 80px;
+    height: 90px;
+    width: 100px;
+    margin-top:70px ;
+}
+#p1{
+    position: absolute;
+    color: rgb(24, 22, 22);
+    top:180px;
+    left: 75px;
+    background-color: rgb(227, 193, 193);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+#project-2{
+    position: absolute;
+    margin-left: 560px;
+    top: 109px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#ph1{
+    position: relative;
+    margin-left: 80px;
+    color: rgb(19, 19, 19);
+    margin-top: 30px;
+}
+#pp1{
+    position: relative;
+    margin-left: 80px;
+    height: 90px;
+    width: 100px;
+}
+#p2{
+    position: absolute;
+    color: rgb(18, 18, 18);
+    top:180px;
+    left: 75px;
+    background-color:rgb(227, 193, 193);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+#project-3{
+    position: absolute;
+    margin-left: 950px;
+    top: 109px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#ph2{
+    position: relative;
+    margin-left: 80px;
+    color: rgb(20, 20, 20);
+    margin-top: 30px;
+}
+#pp2{
+    position: relative;
+    margin-left: 80px;
+    height: 90px;
+    width: 150px;
+}
+#p3{
+    position: absolute;
+    color: rgb(12, 12, 12);
+    top:180px;
+    left: 75px;
+    background-color: rgb(227, 193, 193);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+#project-4{
+    position: absolute;
+    margin-left: 160px;
+    top: 370px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#ph3{
+    position: relative;
+    margin-left: 80px;
+    color: rgb(17, 16, 16);
+    margin-top: 30px;
+}
+#pp3{
+    position: relative;
+    margin-left: 80px;
+    height: 80px;
+    width: 120px;
+}
+#p4{
+    position: absolute;
+    color: rgb(17, 17, 17);
+    top:180px;
+    left: 75px;
+    background-color: rgb(227, 193, 193);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+#project-5{
+    position: absolute;
+    margin-left: 560px;
+    top: 370px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#ph4{
+    position: relative;
+    margin-left: 80px;
+    color: rgb(12, 11, 11);
+    margin-top: 30px;
+}
+#pp4{
+    position: relative;
+    margin-left: 80px;
+    height: 90px;
+    width: 130px;
+}
+#p5{
+    position: absolute;
+    color: white;
+    top:180px;
+    left: 75px;
+    background-color:  rgb(227, 193, 193);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+#project-6{
+    position: absolute;
+    margin-left: 960px;
+    top: 370px;
+    background-color:rgb(227, 193, 193);
+    width: 270px;
+    height: 220px;
+    border-radius: 30px;
+    border:1px solid white;
+}
+#ph5{
+    position: relative;
+    margin-left: 80px;
+    color: rgb(19, 19, 19);
+    margin-top: 30px;
+}
+#pp5{
+    position: relative;
+    margin-left: 80px;
+    height: 80px;
+    width: 130px;
+}
+#p5{
+    color: black;
+}
+#p6{
+    position: absolute;
+    color: rgb(19, 19, 19);
+    top:180px;
+    left: 75px;
+    background-color: rgb(215, 175, 175);
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 17px;
+    border: 1px solid white;
+}
+
+

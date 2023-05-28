@@ -1,0 +1,115 @@
+body{
+    background-color:#f6e0e0;
+    overflow-x: hidden;
+}
+header{
+    overflow: hidden;
+}
+#h1{
+    position: relative;
+    font-size: 26px;
+    margin-left: 50px;
+    color: rgb(15, 14, 14);
+    top:7px;
+}
+#pr{
+    position: absolute;
+    margin-left: 350px;
+    top: 23px;
+    font-size: 20px;
+    text-decoration: none;
+    color: grey;
+}
+#navbar{
+    position: fixed;
+    top: 19px;
+    z-index: 1;
+    
+}
+#nav{
+    position: relative;
+    margin-right: 10px;
+    text-decoration: none;
+    color:rgb(65, 61, 61);
+    font-size: 21px;
+    cursor: pointer;
+    left: 580px;
+    top:19px;
+    padding-right: 9px;
+}
+#navbar :hover{
+    color: crimson;
+}
+#cv{
+    position: relative;
+    margin-right: 10px;
+    text-decoration: none;
+    color:rgb(251, 234, 234);
+     background-color: crimson;
+    font-size: 20px;
+    cursor: pointer;
+    left: 900px;
+    top:10px;
+    padding: 9px; 
+    padding-left: 19px;
+    padding-right: 19px;
+}
+#img{
+    position: absolute;
+    width:400px;
+    height: 400px;
+    margin-left: 800px;
+    border-radius: 200px;
+    margin-top: 50px;
+}
+#he1{
+    position: absolute;
+    top: 210px;
+    left:140px;
+    color:rgb(28, 27, 27);
+    font-size: 53px;
+    font-weight: 900;
+}
+#he2{
+    position: absolute;
+    top: 180px;
+    left:140px;
+    color:rgb(21, 19, 19);
+    font-size: 33px;
+}
+#he3 {
+    position: absolute;
+    top: 290px;
+    left:140px;
+    color:rgb(23, 22, 22);
+    font-size: 35px;
+}
+#he3 span{
+   color: rgb(235, 135, 157); 
+}
+#pa{
+    position: absolute;
+    top: 360px;
+    left:140px;
+    color:rgb(79, 76, 76);  
+    font-size: 23px;
+    word-spacing: 0.7px;
+    line-height: 23.5px;
+}
+#sm{
+    position: absolute;
+    top: 230px;
+    left:50px;
+    font-size: 30px;
+    color: black;
+    line-height: 60px;
+}
+#smm{
+position: relative;
+  cursor: pointer;
+  text-decoration: none; 
+  color:rgb(13, 13, 14);
+  top:10px; 
+  margin-left: 12px;
+  word-spacing: 100px;
+}
