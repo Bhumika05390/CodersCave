@@ -1,0 +1,131 @@
+#logo{
+    position:absolute;
+    width: 10%;
+   margin-left: 10px;
+   height: 50px;
+   left: 10;
+   top: 0;
+   margin-top: 10px;
+   overflow: hidden;
+  
+}
+#navbar{
+  position: fixed;
+ margin-left: 65%;
+ top: 20px;
+ z-index: 1;overflow: hidden;
+}
+#navitem{
+    margin-right: 20px;
+    text-decoration: none;
+    color:rgb(29, 28, 28);
+    font-size: 20px;
+    cursor: pointer;
+    overflow: hidden;
+}
+#h1{
+    margin-top: 50px;
+    margin-left: 450px;
+    color: beige;
+}
+#we{
+    margin-top: 100px;
+    margin-left: 260px;
+    font-size: 33px;
+    color: aliceblue;
+}
+span{
+    position: absolute;
+    top: 240px;
+    margin-left: 190px;
+    color:blue;
+    font-size: 45px;
+    font-weight: 300;
+
+}
+#pu{
+    margin-top: 90px;
+    margin-left: 230px;
+    font-size: 20px;
+    color: aliceblue;
+}
+#but{
+    position: absolute;
+    text-decoration: none;
+    background-color: blue;
+    color: whitesmoke;
+    margin-left: 265px;
+     padding-bottom: 10px;
+    padding-top: 10px;   
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;  
+}
+#content{
+    position: absolute;
+    left: 0;
+    margin-top: 50px;
+    height: 500px;
+    width:1350px;
+    background-color: grey;
+}
+#img1{
+    position: absolute;
+    top:130px;
+    width:500px;
+    margin-left: 800px;
+    height: 300px;
+}
+#services{
+    height: 800px;
+}
+#seh{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 500px;
+}
+#se{
+    position: absolute;
+    top:590px;
+    width: 200px;
+    left: 120px;
+}
+#se1{
+    position: absolute;
+    top:590px;
+    width: 200px;
+    left: 500px;
+    background-color: rgb(31, 106, 176);
+}
+#se2{
+    position: absolute;
+    top:590px;
+    width: 400px;
+    left: 800px;
+    height: 200px;
+   
+}
+#sep{
+    position: absolute;
+    top:790px;
+    left: 150px;
+    font-size: 24px;
+    background-color: rgb(215, 166, 102);
+    padding: 10px;
+}
+#sep1{
+    position: absolute;
+    top:790px;
+    left: 500px;
+    font-size: 24px;
+    background-color: rgb(215, 166, 102);
+    padding: 10px;
+}
+#sep2{
+    position: absolute;
+    top:790px;
+    left: 950px;
+    font-size: 24px;
+    background-color: rgb(215, 166, 102);
+    padding: 10px;
+}

@@ -1,0 +1,233 @@
+body{
+    background-color: rgb(127, 127, 177);
+}
+#logo{
+    position:absolute;
+    width: 10%;
+   margin-left: 10px;
+   height: 50px;
+   left: 10;
+   top: 0;
+   margin-top: 10px;
+   overflow: hidden;
+  
+}
+
+#navbar{
+  position: fixed;
+ margin-left: 65%;
+ top: 5%;
+ z-index: 1;overflow: hidden;
+}
+#navitem{
+    margin-right: 20px;
+    text-decoration: none;
+    color:rgb(219, 206, 206);
+    font-size: 20px;
+    cursor: pointer;
+    overflow: hidden;
+}
+#Contact{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 600px;
+    left: 0;
+    }
+ 
+  #img3{
+        background-position: 50% 50%; 
+         position: absolute; 
+         top: 0px; left: 0px;
+          width: 100%;
+           height: 100%; 
+       bottom: 0;
+    
+    }
+#cnh{
+        position: absolute;
+        
+        left: 550px;
+        font-size: 55px;
+        line-height: 1.4;
+        word-spacing: 2px;
+        margin-top: 20px;
+        color: rgb(17, 17, 18);
+        
+    }
+ #cn{
+    position: absolute;
+    top: 100px;
+    width: 25%;
+    left: 40%;
+    height: 220px;
+    float: left;
+    font-size: 18px;
+    color: rgb(14, 14, 14);
+    }
+    #cn1{
+        position: absolute;
+        margin-left: 76%;
+        right: 0;
+        top:0%;
+        height: 550px;
+        margin-bottom: 70px;
+       width: 500px;
+
+    }
+    form{
+        position: absolute;
+        top: 19%;
+        left: 40%;
+        background-color:rgb(145, 116, 178);
+        width: 27%;
+        height: 59%;
+    }
+    #fh{
+        position: relative;
+        left: 0px;
+        margin-left: 10%;
+        top: 10px;
+        color: rgb(19, 18, 18);
+    }
+    #inputtype{
+        position: relative;
+        left: 35px;
+        width: 70%;
+        padding: 10px;
+        margin-top: 20px;
+        height: 12px;
+        border: 1px solid white;
+        background-color:rgb(200, 187, 187) ;
+        border-radius: 20px;
+        color: black;
+    
+    }
+    button{
+        position: relative;
+        left:220px;
+        padding: 7px 24px;
+        background-color:rgb(228, 217, 217);
+        border: 1px solid white;
+        font-size:16px ;
+        color: rgb(19, 19, 19);
+        border-radius: 30px;
+        top:10px;
+        cursor: pointer;
+    }
+    #i1{
+        position: absolute;
+        margin-top: 90px;
+        left: 10%;
+        background-color:rgb(232, 225, 225);
+        padding: 6px;
+        border-radius: 15px;
+        border: 2px solid rgb(10, 9, 9);
+    }
+    #i2{
+        position: absolute;
+        margin-top: 100px;
+        left: 10%;
+        background-color:rgb(242, 230, 230);
+        padding: 6px;
+        border-radius: 15px;
+        border: 2px solid rgb(27, 27, 27);
+    }
+    #i3{
+        position: absolute;
+        margin-top: 140px;
+        left: 10%;
+        background-color:rgb(235, 227, 227);
+        padding: 6px;
+        border-radius: 15px;
+        border: 2px solid rgb(12, 12, 12);
+    }
+    #ad{
+        position: relative;
+        top: 88px;
+        left: 15%;
+        color: rgb(36, 37, 38);
+    }
+    #adp{
+        position: relative;
+        top: 80px;
+        left: 15%;
+        font-size: 18px;
+        color: rgb(32, 33, 33);
+    }
+    #ph{
+        position: relative;
+        top: 100px;
+        left: 15%;
+        color: rgb(19, 19, 19);
+    }
+    #php{
+        position: relative;
+        top: 90px;
+        left: 15%;
+        font-size: 18px;
+        color: rgb(21, 21, 21);
+    }
+    #em{
+        position: relative;
+        top: 140px;
+        left: 15%;
+        color: rgb(25, 25, 26);
+    }
+    #emp{
+        position: relative;
+        top: 140px;
+        left: 15%;
+        font-size: 18px; 
+        color: rgb(18, 19, 19);
+    }
+    footer{
+        border-top: 1px solid rgb(28, 26, 26);
+        position: absolute;
+        top: 535px;
+        height:70px ;
+        left: 0;
+        width: 100%;
+        background-color: (127, 127, 177);
+
+    }
+    #fb{
+        position: absolute;
+        top:10px;
+        background-color:rgb(230, 204, 204) ;
+        left:45%;
+        padding: 5px;
+        border-radius: 30px;
+        border: 2px solid rgb(14, 13, 13);
+    }
+    #gh{
+        position: absolute;
+        top:10px;
+        background-color:rgb(230, 204, 204) ;
+        left:45%;
+        margin-left: 50px;
+        padding: 5px;
+        border-radius: 30px;
+        border: 2px solid rgb(15, 14, 14);
+    }
+    #ema{
+        position: absolute;
+        top:10px;
+        background-color:rgb(230, 204, 204) ;
+        left:45%;
+        margin-left: 100px;
+        padding: 5px;
+        border-radius: 30px;
+        border: 2px solid rgb(7, 7, 7);
+    }
+    #cpy{
+        
+        position: absolute;
+        top:28px;
+        left:44%;
+        margin-top: 20px;
+       color: rgb(19, 17, 17);
+       
+    }
+
+    
