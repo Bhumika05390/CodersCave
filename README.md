@@ -20,3 +20,4 @@
 * In this task, I designed Body mass insex calculator for person,which is used to check our index is correct or not.
 * Step-1: Enter person's  height in meters and weight in kilograms.
 * Step-2: Now calculate the BMI for the input characters its shows the BMI value and range of the person,is it overweight or underweight..etc.
+* Technologies Used : HTML,CSS  and Javascript
